@@ -53,6 +53,9 @@ header {
     gap: 15px;
      
 }
+.logo img{
+    width: 3em;
+}
 
 .logo i {
     font-size: 2rem;
